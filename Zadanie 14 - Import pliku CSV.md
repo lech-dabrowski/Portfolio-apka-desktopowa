@@ -39,7 +39,7 @@ Program poprawnie importuje wszystkie wartości. Możliwe jest sortowanie po ka�
 
 **Wymagania:**
 
-- W wytycznych do zadania nie podano jakie wartości powinna przyjmować każda z kolumn, ale mając na uwadze dobre praktyki stosowane w takich sytuacjach, przyjmujemy co następuje:
+W wytycznych do zadania nie podano jakie wartości powinna przyjmować każda z kolumn, ale mając na uwadze dobre praktyki stosowane w takich sytuacjach, przyjmujemy co następuje:
 - Kolumna ID przyjmuje tylko liczby całkowite.
 - Kolumny Nazwa, Osoba kontaktowa, Miejscowość i Kraj przyjmują litery i znaki specjalne (na wypadek apostrofów i myślników w nazwiskach)
 - Kolumny Telefon, Fax i Kod pocztowy przyjmują cyfry i znaki specjalne
