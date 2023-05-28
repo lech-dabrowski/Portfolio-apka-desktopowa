@@ -2,4 +2,4 @@
 
 [![HrYuhua.md.png](https://iili.io/HrYuhua.md.png)](https://freeimage.host/i/HrYuhua)
 ---
-Test 2 ujawnia błąd - sortowanie listy przez dowolną kolumnę nie zmiania pozycji liczby porządkowej
+Wykorzystano testy z [Zadania 10](https://github.com/lechdabrowski42/mrbuggy3/blob/main/Zadanie%2010%20-%20Lista%20produkt%C3%B3w%20I.md). Test 2 ujawnia błąd - kolejność liczb w pierwszej kolumnie ”L.p.” nie zmienia się zależnie od sortowania, co skutkuje niepoprawnym przypisywaniem liczby porządkowej.
