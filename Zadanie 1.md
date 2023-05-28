@@ -140,3 +140,5 @@ Użytkownik znajduje się na stronie rejestracji i dysponuje danymi potrzebnymi 
 **Oczekiwany rezultat:**
 
 Rejestracja zakończona powodzeniem.
+
+[![HrYuhua.md.png](https://iili.io/HrYuhua.md.png)](https://freeimage.host/i/HrYuhua)
