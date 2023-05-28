@@ -3,3 +3,7 @@
 [![HrYuhua.md.png](https://iili.io/HrYuhua.md.png)](https://freeimage.host/i/HrYuhua)
 ---
 Powtórzono testy z Zadania 8. Test 2 ujawnia błąd - po kliknięciu na pole nadal wyświetla się kursor i możliwe jest wprowadzenie dowolnego znaku z klawiatury.
+
+[![HrYuhua.md.png](https://iili.io/HrYuhua.md.png)](https://freeimage.host/i/HrYuhua)
+---
+Część błędnych kombinacji jest co prawda walidowana i wyświetlany jest stosowny komunikat, ale nadal możliwe jest wprowadzenie dwóch jednakowych znaków (niebędących 0 lub 1) co zwróci błędny wynik 2.
