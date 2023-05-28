@@ -1,10 +1,3 @@
-# Mr. Buggy
-
-<aside>
-💡 Najważniejszym celem poniższych przypadków testowych jest zilustrowanie procesu myślowego, jaki towarzyszył mi w poszukiwaniu błędów w trzeciej edycji aplikacji MrBuggy. Stąd w wielu miejscach podane są przykłady, a czynność raz opisana ze szczegółami, w kolejnych testach nie jest dokładnie opisywana.
-
-</aside>
-
 # Zadanie 1 - Rejestracja użytkownika
 
 ### T1 - Wszystkie dane poprawne
@@ -146,12 +139,7 @@ Użytkownik znajduje się na stronie rejestracji i dysponuje danymi potrzebnymi 
 
 Rejestracja zakończona powodzeniem.
 
-<aside>
-🪲 Test 7 ujawnia błąd. Formularz przyjmuje dowolną ilość pustych pól.
+[![HrYuhua.md.png](https://iili.io/HrYuhua.md.png)](https://freeimage.host/i/HrYuhua)
+Test 7 ujawnia błąd. Formularz przyjmuje dowolną ilość pustych pól.
 
-</aside>
-
-<aside>
 💡 O ile wynik Testu 6 nie jest błędem, zaleca się wprowadzenie rozsądnego limitu znaków by uniknąć nadmiernego wzrostu rozmiaru bazy danych.
-
-</aside>
