@@ -8,7 +8,7 @@ Użytkownik znajduje się na stronie narzędzia do importowania plików CSV. Dys
 
 **Kroki:**
 
-1. Utwórz plik, z wartościami dla następujących kolumn: id, Nazwa, Osoba, Telefon, Fax, Ulica, Miejscowość, Kod, Kraj. Wartości nie muszą odpowiadać rzeczywistym danym, ale chociaż niech typ się zgadza.
+1. Utwórz plik, z wartościami dla następujących kolumn: id, Nazwa, Osoba, Telefon, Fax, Ulica, Miejscowość, Kod, Kraj. Wartości nie muszą odpowiadać rzeczywistym danym, ale chociaż niech typ danych się zgadza.
 2. Wyeksportuj plik zaznaczając opcję użycia przecinka w roli separatora.
 3. Zaimportuj przygotowany plik klikając na przycisk “Wczytaj CSV” i nawigując do odpowiedniego pliku na dysku.
 4. Obserwuj czy wszystkie kolumny tabelki są uzupełniane odpowiednimi wartościami z pliku.
