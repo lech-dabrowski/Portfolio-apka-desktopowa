@@ -141,6 +141,7 @@ Rejestracja zakończona powodzeniem.
 
 ---
 [![HrYuhua.md.png](https://iili.io/HrYuhua.md.png)](https://freeimage.host/i/HrYuhua)
+---
 
 Test 7 ujawnia błąd. Formularz przyjmuje dowolną ilość pustych pól.
 O ile wynik Testu 6 nie jest błędem, zaleca się wprowadzenie rozsądnego limitu znaków by uniknąć nadmiernego wzrostu rozmiaru bazy danych.
