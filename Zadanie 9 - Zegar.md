@@ -25,7 +25,7 @@ Użytkownik znajduje się na stronie zegara i dysponuje metodą poprawnego pomia
 **Kroki:**
 
 1. Zsynchronizuj czas wyświetlany w programie z tym dostępnym na drugim urządzeniu.
-2. Zrób sobie kawy, herbaty lub pooglądaj memy na internecie.
+2. Zrób sobie kawę, herbatę lub pooglądaj memy na internecie.
 3. Po upływie kilku minut sprawdź czy oba urządzenia wyświetlają ten sam czas.
 
 **Oczekiwany rezultat:**
