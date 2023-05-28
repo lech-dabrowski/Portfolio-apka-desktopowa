@@ -37,7 +37,7 @@ Program poprawnie importuje wszystkie wartości. Możliwe jest sortowanie po ka�
 
 ### T3 - Walidacja pól
 
-********************Wymagania:********************
+Wymagania:
 
 W wytycznych do zadania nie podano jakie wartości powinna przyjmować każda z kolumn, ale mając na uwadze dobre praktyki stosowane w takich sytuacjach, przyjmujemy co następuje:
 
