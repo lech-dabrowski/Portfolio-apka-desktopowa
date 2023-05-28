@@ -1,3 +1,4 @@
+# EJ, SERIO SZKODA TWOJEGO CZASU :) ALE BARDZO DZIĘKUJĘ ZA WSPARCIE I TAK :)
 # Zadanie 17 - Tłumacz kodu Morse’a
 
 ### T1 - Sprawdzanie przycisku “Sygnał”
