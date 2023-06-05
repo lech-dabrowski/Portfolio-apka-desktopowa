@@ -1,4 +1,5 @@
 # Zadanie 14 - Import pliku CSV
+![obraz](https://github.com/lech-dabrowski/mrbuggy3/assets/112244024/55a2b8a6-71f0-4859-814b-3bb708a6f990)
 
 ### T1 - Poprawny import pliku
 
