@@ -1,4 +1,5 @@
 # Zadanie 17 - Tłumacz kodu Morse’a
+![obraz](https://github.com/lech-dabrowski/mrbuggy3/assets/112244024/b2cbefc6-6bcb-455a-b987-09c8839b307f)
 
 ### T1 - Sprawdzanie przycisku “Sygnał”
 
