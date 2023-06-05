@@ -1,4 +1,5 @@
 # Zadanie 9 - Zegar
+![obraz](https://github.com/lech-dabrowski/mrbuggy3/assets/112244024/98991b4a-2883-49d4-b896-97eabff44bd6)
 
 ### T1 - Walidacja pól
 
