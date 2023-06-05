@@ -1,4 +1,5 @@
 # Zadanie 5 - Konwersja liczb
+![obraz](https://github.com/lech-dabrowski/mrbuggy3/assets/112244024/5ac07e04-1f4a-4220-a03b-2266e7c2c446)
 
 ### T1 - Poprawna konwersja
 
