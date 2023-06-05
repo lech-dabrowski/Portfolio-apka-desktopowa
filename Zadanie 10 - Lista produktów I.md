@@ -1,4 +1,5 @@
 # Zadanie 10 - Lista produktów I
+![obraz](https://github.com/lech-dabrowski/mrbuggy3/assets/112244024/c333dc3b-b616-48c0-93d6-fd21b8d1dc9c)
 
 ### T1 - Poprawne dodanie produktu
 
