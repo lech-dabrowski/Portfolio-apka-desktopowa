@@ -1,3 +1,5 @@
+![obraz](https://github.com/lech-dabrowski/mrbuggy3/assets/112244024/41c5cb2c-8607-4e0f-b49d-c44da3fb3f24)
+
 # Zadanie 1 - Rejestracja użytkownika
 
 ### T1 - Wszystkie dane poprawne
