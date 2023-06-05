@@ -1,4 +1,5 @@
 # Zadanie 15 - Galeria obrazków I
+![obraz](https://github.com/lech-dabrowski/mrbuggy3/assets/112244024/7f4274eb-5d88-4431-a150-94bd9d71949d)
 
 ### T1 - Poprawna generacja galerii
 
