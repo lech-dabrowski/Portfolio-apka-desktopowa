@@ -1,4 +1,5 @@
 # Zadanie 8 - Bramka logiczna I
+![obraz](https://github.com/lech-dabrowski/mrbuggy3/assets/112244024/1cdd885e-bb4b-4460-bc22-c9138f8f8c1a)
 
 ### T1 - Testowanie wszystkich poprawnych kombinacji
 
