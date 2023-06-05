@@ -14,7 +14,7 @@ Użytkownik znajduje się na stronie konwertera i dysponuje parą poprawnie prze
 
 **Oczekiwany rezultat:**
 
-Poprawna konwersja liczny dzieciętnej na szesnastkową.
+Poprawna konwersja liczby dzieciętnej na szesnastkową.
 
 ### T2 - Walidacja pola “Liczba 32-bitowa”
 
