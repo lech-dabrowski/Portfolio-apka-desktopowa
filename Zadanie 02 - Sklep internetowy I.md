@@ -1,4 +1,6 @@
 # Zadanie 2 - Sklep internetowy I
+![obraz](https://github.com/lech-dabrowski/mrbuggy3/assets/112244024/e849c0d1-1fe4-4e16-9117-21e469746ce6)
+
 
 ### T1 - Poprawna transakcja
 
